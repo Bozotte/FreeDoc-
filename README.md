@@ -1,24 +1,5 @@
 # README
+Faire un bundle install pour installer les gems nécessaires au fonctionnement du programme.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Vérifier les bases de données avec la commande rails console dans le terminal 
+: tp Specialty.all tp Doctor.all tp Patient.all tp City.all etc 
